@@ -1,0 +1,17 @@
+*.mat
+*.pyc
+*~
+*.DS_Store
+*.aux
+*.bbl
+*.log
+*.synctex*
+*.blg
+*.fig
+*.mat
+*.o
+*.mex*
+*.dat
+*.pdf
+*.out
+*.asv
